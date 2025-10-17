@@ -1,6 +1,6 @@
-INSERT INTO estudantes (nome, materia) VALUES
-('Ana Silva', 'Matemática'),
-('Bruno Souza', 'História'),
-('Carla Mendes', 'Biologia'),
-('Daniel Oliveira', 'Química'),
-('Eduarda Lima', 'Física');
+INSERT INTO estudantes (nome, sobrenome, idade,  materia) VALUES
+('Ana', 'Silva', 20, 'Matemática'),
+('Bruno', 'Souza', 22, 'Física'),
+('Carla', 'Oliveira', 19, 'Química'),
+('Daniel', 'Pereira', 21, 'Biologia'),
+('Eduarda', 'Costa', 23, 'História');
